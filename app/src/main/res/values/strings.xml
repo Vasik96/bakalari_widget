@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bakaláři Widget</string>
+    <string name="widget_timetable_desc">Rozvrh s aktuální hodinou a změnami</string>
+    <string name="widget_marks_desc">Poslední známky</string>
+</resources>
